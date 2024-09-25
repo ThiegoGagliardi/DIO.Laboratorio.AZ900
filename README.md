@@ -22,4 +22,23 @@
 
 Caso a Microsoft não cumpra com o SLA a empresa contratante é ressarcida
 - Quanto ao armazenamento quanto mais redundâncias eu tiver, mas resiliente e maior será o tempo de SLA e maior será o custo.
-- Ao criar uma máquina virtual, temos a opção de disponibilidade.   
+- Ao criar uma máquina virtual, temos a opção de disponibilidade.
+
+
+### Tipos de Serviço em Nuvem (IaaS, PaaS e SaaS)
+
+- Infra estrutura como serviço (IaaS)
+  Recursos relacionados: Firewall/Sergurança de rede, Servidores e armazenamento, Planta física/Edificio do datacenter.
+  Neste modelo o contratante tem maior acesso, devendo efetuar várias configurações e monitoramento. Basicamente o contratante não se preocupa com o gerenciamento físico, mas sim de configuração
+
+### Plataforma como Serviço(PaaS)
+- Recurso relacionados: Sistemas Operacionais, ferramentas para Desenvolvedores
+- Fornece um ambiente para criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+
+### Software como Serviço (SaaS)
+-  Aplicativos/ apps hospedagem, recursos relacionadois: Microsoft Office 365, email, calendários.
+Apenas utilizamos uma aplicação totalmente desenvolvida, onde depende do nível da assinatura para eu ter recursos dentro desta aplicação.
+
+### Modelo de responsabildiade Compartilhada
+
+
